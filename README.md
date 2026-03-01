@@ -17,7 +17,7 @@ cumplimiento de objetivos por categoría de producto.
 - Sarees muestra rentabilidad negativa cuando el precio cae por debajo de $60
 
 ## Estructura del proyecto
-- [PROYECTO_ANALISIS_DE_VENTAS.pdf](PROYECTO ANALISIS DE VENTAS.pdf)
+- [PROYECTO_ANALISIS_DE_VENTAS.pdf](PROYECTO_ANALISIS_DE_VENTAS.pdf)
 - [RESUMEN_EJECUTIVO.pdf](RESUMEN_EJECUTIVO.pdf)
 - [ECOMMERCE_1.pbix](ECOMMERCE_1.pbix)
 - [PRIMEROS_KPI.sql](PRIMEROS_KPI.sql)
