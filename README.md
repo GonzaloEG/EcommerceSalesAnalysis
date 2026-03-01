@@ -17,7 +17,10 @@ cumplimiento de objetivos por categoría de producto.
 - Sarees muestra rentabilidad negativa cuando el precio cae por debajo de $60
 
 ## Estructura del proyecto
-- `/sql` → consultas de KPIs, insights y resumen ejecutivo
-- `PROYECTO_ANALISIS_DE_VENTAS.pdf` → análisis completo
-- `RESUMEN_EJECUTIVO.pdf` → resumen para stakeholders
-- `ECOMMERCE.pbix` → dashboard Power BI
+- [PROYECTO_ANALISIS_DE_VENTAS.pdf](PROYECTO_ANALISIS_DE_VENTAS.pdf)
+- [RESUMEN_EJECUTIVO.pdf](RESUMEN_EJECUTIVO.pdf)
+- [ECOMMERCE_1.pbix](ECOMMERCE_1.pbix)
+- [PRIMEROS_KPI.sql](PRIMEROS_KPI.sql)
+- [INSIGHT_CRITICOS_1.sql](INSIGHT_CRITICOS.sql)
+- [INSIGHTS_CRITICOS_2.sql](INSIGHTS_CRITICOS_2.sql)
+- [RESUMEN_EJECUTIVO.sql](RESUMEN_EJECUTIVO.sql)
